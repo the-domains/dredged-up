@@ -1,6 +1,5 @@
+layout_spectrum: 0.28509969054721296
 typography_spectrum: 0.4044175792951137
-content_rating:
-  adult: true
 color:
   brandStrength: 0.4769070129841566
   lightness: 0.5856888412963599
@@ -12,12 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-opengraph:
-  appId: 'https://www.facebook.com/eric.fremouw'
-layout_spectrum: 0.28509969054721296
-author:
-  name: Eric Fremouw
-  email: efremouw@gmail.com
-  url: 'http://efremouw.wix.com/reasonuance'
 name: Dredged UP
-title: surfacing knowledge
